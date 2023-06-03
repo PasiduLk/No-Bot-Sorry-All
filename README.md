@@ -1,7 +1,9 @@
 <html>
   <head>
     <body>
-      <h1> මෙම වට්ස්ඇප් රොබො ක්‍රියාවිරහිත කර ඇත ආය මේ මම බොට් ලා හදන්නේ නෑ සමාවෙන්න.. </h1>
+      <h1> This Bot Is Not Publish And Not Make This Bot Sorry All </h1>
+      
+      <h3>I am Pasindu Sehan </h3>
     </body>
   </head>
   </html>
